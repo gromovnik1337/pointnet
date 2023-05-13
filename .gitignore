@@ -1,2 +1,5 @@
 venv/
 ModelNet10/
+*.ipynb_checkpoints/
+*.pth
+
